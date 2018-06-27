@@ -7,7 +7,7 @@
 <ion-header>
 
     <ion-navbar>
-        <ion-title>UserProfilePage</ion-title>
+        <ion-title>User Profile</ion-title>
     </ion-navbar>
 
 </ion-header>
